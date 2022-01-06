@@ -1,11 +1,12 @@
 <h1 align="center"> Google Glass </h1>
-<h3>Building a website using HTML5, CSS3 and Js </h3>
+<h3>A website builded with HTML5, CSS3 and Js </h3>
 <p align="right">
   <img alt="Google Glass" src="./_imagens/glass-quadro-mulher.jpg" height="200"/>
   </p>
   
 <body>
 <article>
+  
   <p> The goals of these project is: 
     <ul>
       <li> Highlight the method of semantic organization of an HTML site</li>
