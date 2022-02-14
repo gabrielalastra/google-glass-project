@@ -16,5 +16,6 @@
       <li> Create sensitive dots on image, showing more details about the point</li>
       <li> Zooming effect with mouse over </li>
       <li> Legends on effecf with mouse over </li>
+      <li> Develop a formulary</li>
   </ul>
   </article>
